@@ -1,0 +1,15 @@
+C:\Users\Noah\Documents\projects\wordle\bin\Debug\net9.0\..exe
+C:\Users\Noah\Documents\projects\wordle\bin\Debug\net9.0\..deps.json
+C:\Users\Noah\Documents\projects\wordle\bin\Debug\net9.0\..runtimeconfig.json
+C:\Users\Noah\Documents\projects\wordle\bin\Debug\net9.0\..dll
+C:\Users\Noah\Documents\projects\wordle\bin\Debug\net9.0\..pdb
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..AssemblyInfo.cs
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..sourcelink.json
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..dll
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\refint\..dll
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..pdb
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\..genruntimeconfig.cache
+C:\Users\Noah\Documents\projects\wordle\obj\Debug\net9.0\ref\..dll
